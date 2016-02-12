@@ -1,0 +1,20 @@
+Project: First Person Shooter Application
+Name: Krishna Chaitanya Sripada
+
+Key bindings:
+ Left Arrow     Strafe Left
+ Right Arrow    Strafe Right
+ Up Arrow       Move Forward
+ Down Arrow     Move Backward
+ a              Toggle Axes
+ ESC            Exit
+
+The executable created is named as “project”. So once compilation is done, please run the executable.
+
+Description:
+
+In the current version of the code, we can strafe left, right, move front and bad. Also few 3D models are placed in the scene is make it realistic. A skycube is added to make the scene appealing and then lighting and texture is taken care. Mouse movements are also added which allows 360 degree movement.
+
+Things to work on:
+
+I would like to apply collision detection to make the experience of walking around more realistic. Also I would like to add few targets so that the gun can fire at them. If imd permits, I will add shadows to the seen.

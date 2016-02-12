@@ -1,0 +1,51 @@
+\documentclass[11pt,psfig,a4]{article}
+\usepackage{geometry}
+\geometry{left=18mm,right=18mm,top=12mm,bottom=12mm}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{upgreek}
+\usepackage{mathrsfs}
+\usepackage{amssymb}
+\usepackage{subfigure}
+\usepackage{caption}
+\usepackage{tikz}
+\usepackage{mathtools}
+\usetikzlibrary{automata,positioning}
+\usetikzlibrary{shapes,arrows}
+\usepackage{listings}
+
+\lstset{
+language=[LaTeX]TeX,
+backgroundcolor=\color{gray!25},
+basicstyle=\ttfamily,
+columns=flexible,
+breaklines=true
+}
+
+\begin{document}
+\title{First Person Shooter Game with Collision Detection\\}
+\author{Krishna Chaitanya Sripada - CSCI 5229}
+\maketitle
+\section*{Project Proposal}
+\begin{flushleft}
+Since I play a lot of games, my idea is to design a First Person Shooter game with multiple key bindings that allow the user to do the following:\\
+\begin{enumerate}
+\item Use the mouse to look around the map/terrain.
+\item Enable and disable lighting/textures.
+\item Keyboard options to move around the map.
+\item Shoot a target in the map with a weapon.
+\item Destroy the target on the map upon successfully shooting it.
+\end{enumerate}. \\
+Also, the terrain rendering would be a height map with obstacles on its path. The goal of the project is to make sure that the users don't collide with the obstacles on the map by using collision detection. Apart from this, the texture mapping and lighting would be looked into so that the terrain rendering is as realistic as possible.\\
+\vspace{2em}
+If time permits, I would like to add the following: \\
+\begin{enumerate}
+\item Shadows based on the position of the light source.
+\item Improve the terrain rendering by adding more objects so that it would be realistic.
+\end{enumerate} 
+My stretch goal is to provide an indicator which shows the health/destruction percentage of the target that is being shot at so that it would be visually appealing and realistic to a game environment. It would also be cool if the target being shot has the option to move around on the map.\\
+\vspace{2em}
+I aim to have the basic options for the First Person Shooter game to work i.e., use of mouse to look around the map/terrain and keyboard options to move around the map. Also the lighting and textures would be done for the project review. I will then go ahead with adding the logic to prevent collision and the ability to shoot and destroy the target before the project is submitted.\\
+\end{flushleft}
+\end{document} 
