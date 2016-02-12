@@ -1,0 +1,31 @@
+Assignment 1: Lorenz Attractor
+Name: Krishna Chaitanya Sripada
+
+Key bindings:
+
+q: Rotate X axis +
+a: Rotate X axis -
+w: Rotate Y axis +
+s: Rotate Y axis -
+e: Rotate Z axis +
+d: Rotate Z axis -
+r: Restart animation
+f: Finish animation
+t: Animation speed +
+g: Animation speed -
+UP: Rotate X axis +
+DOWN: Rotate X axis -
+LEFT: Rotate Y axis +
+RIGHT: Rotate Y axis -
+p: Lorenz Parameter b +
+l: Lorenz Parameter b -
+o: Lorenz Parameter s +
+k: Lorenz Parameter s -
+i: Lorenz Parameter r +
+j: Lorenz Parameter r -
+
+Optional: We found that for small values of r, the system is stable and evolves to one of two fixed point attractors. When r is larger than 24.74, the fixed points become repulsers and the trajectory is repelled by them in a very complex way.
+
+To test this, reduce the value of parameter ‘r’ and then press the key ‘r’ to test the scenario mentioned above.
+
+Time taken to complete the assignment: 8 hours

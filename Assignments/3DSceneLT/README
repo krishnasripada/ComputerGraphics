@@ -1,0 +1,26 @@
+Assignment 3: 3D Scene with lighting and Textures
+Name: Krishna Chaitanya Sripada
+
+Key bindings:
+
+Key bindings
+	l/L        Toggles lighting
+	a/A        Decrease/increase ambient light
+	d/D        Decrease/increase diffuse light
+	s/S        Decrease/increase specular light
+	e/E        Decrease/increase emitted light
+	n/N        Decrease/increase shininess
+	F1         Toggle smooth/flat shading
+	F3         Toggle two-side lighting
+	F8         Change plane increment
+	m          Toggles light movement
+        []         Lower/rise light
+	p          Toggles ortogonal/perspective projection
+	+/-        Change field of view of perspective
+	x          Toggle axes
+	arrows     Change view angle
+	PgDn/PgUp  Zoom in and out
+	0          Reset view angle
+	ESC        Exit
+
+Time taken to complete the assignment: 2 days

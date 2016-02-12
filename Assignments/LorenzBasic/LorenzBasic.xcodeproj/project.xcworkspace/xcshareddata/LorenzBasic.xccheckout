@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD04B042-7F06-46B1-ACE6-83583EAD0337</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LorenzBasic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03F8AAD06D2CF86FD0DB6FA6D4C625CC77B5898B</key>
+		<string>https://github.com/krishnasripada/ComputerGraphics.git</string>
+		<key>65B31F605106EDEE606AAA0DF2584938DDD4D586</key>
+		<string>https://github.com/krishnasripada/ComputerGraphics.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LorenzBasic/LorenzBasic.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03F8AAD06D2CF86FD0DB6FA6D4C625CC77B5898B</key>
+		<string>../../..</string>
+		<key>65B31F605106EDEE606AAA0DF2584938DDD4D586</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/krishnasripada/ComputerGraphics.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03F8AAD06D2CF86FD0DB6FA6D4C625CC77B5898B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>65B31F605106EDEE606AAA0DF2584938DDD4D586</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03F8AAD06D2CF86FD0DB6FA6D4C625CC77B5898B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Assignments</string>
+		</dict>
+	</array>
+</dict>
+</plist>
